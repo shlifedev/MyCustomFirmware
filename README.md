@@ -1,4 +1,4 @@
-개인적으로 프로그래밍 하기위해 정리한 문서
+pcileech를 프로그래밍 하기위해 정리한 문서
 
 # PCILeechCustomFirmware 
   해당 문서는 PCILeech의 커스텀 펌웨어를 만드는 방법에 대해서 소개합니다.  
